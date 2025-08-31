@@ -11,8 +11,8 @@ A full-stack **Spotify Clone** built with the **MERN stack**, packed with advanc
 - 📊 **Admin Dashboard** – Admins can manage and delete songs directly.  
 - 👀 **Live Music Tracking** – See what your friends are currently listening to in real-time.  
 - 📝 **Lyrics Generation** – Generate custom lyrics from user prompts by using openai api.  
-- 🎤 **AI Singing** – Songs sung by AI using **OpenAI’s API**.  
-- 🔒 **Authentication & Authorization** – Secure user login and admin privileges.  
+- 🎤 **AI Singing** – Songs sung by AI using OpenBark api due to free avilability of api i am unable to add this feature.  
+- 🔒 **Authentication & Authorization** – Secure user login and admin privileges using JWT.  
 
 ---
 
@@ -25,6 +25,7 @@ A full-stack **Spotify Clone** built with the **MERN stack**, packed with advanc
 **AI Integration:** OpenAI API  
 
 ---
+
 
 
 
