@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone (Advanced MERN Project)  
 
-A full-stack **Spotify Clone** built with the **MERN stack**, packed with advanced features like real-time messaging, admin dashboard, real-time music tracking, lyrics generation using prompts, and AI singing powered by the **OpenAI API**.  
+A full-stack **Spotify Clone** built with the **MERN stack**, packed with advanced features like real-time messaging, admin dashboard, real-time music tracking, lyrics generation using prompts, and AI lyrics generation powered by the **OpenAI API**.  
 
 ---
 
@@ -25,6 +25,7 @@ A full-stack **Spotify Clone** built with the **MERN stack**, packed with advanc
 **AI Integration:** OpenAI API  
 
 ---
+
 
 
 
